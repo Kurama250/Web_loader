@@ -1,2 +1,31 @@
-# Web_loader
- This script is used to create a loader on your website before viewing your site !
+<h1 align="center">Script for a web loader !</h1>
+<em><h5 align="center">(Programming Language - Html | Css | JavaScript)</h5></em>
+
+# Tutorial to know where and what to modify !
+
+## 1 - Tranfers the files and modify the files below !
+
+- Open index.html
+- Don't forget to change the image !
+
+```
+// Add these lines :
+    <body>
+      <div id="preloader">
+        <img src="assets/img/YOUR_PNG/JPG/GIF" alt="Loading..." id="loader" />
+        <h1 class="loading">Loading<span id="dots"></span></h1>
+      </div>
+
+// The content of your site
+
+//Then add at the end :
+</body>
+```
+
+- Demo : 
+
+![alt text](https://github.com/Kurama250/Web_loader/blob/main/loader.png?raw=true)
+
+<h1 align="center">There you go and be happy !</h1>
+
+Licence : [Creative commons](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) - CC BY-NC-ND 4.0 by [Kurama250](https://github.com/Kurama250) 

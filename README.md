@@ -10,6 +10,9 @@
 
 ```
 // Add these lines :
+    <link href="loader/styles.css" rel="stylesheet" />
+    <script src="loader/scripts.js"></script>
+
     <body>
       <div id="preloader">
         <img src="assets/img/YOUR_PNG/JPG/GIF" alt="Loading..." id="loader" />

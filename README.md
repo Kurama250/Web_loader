@@ -27,7 +27,7 @@
 
 - Demo : 
 
-![alt text](https://github.com/Kurama250/Web_loader/blob/main/loader.png?raw=true)
+![alt text](https://github.com/Kurama250/Web_loader/blob/main/loading.png?raw=true)
 
 <h1 align="center">There you go and be happy !</h1>
 

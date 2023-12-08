@@ -8,7 +8,7 @@
 - Open index.html
 - Don't forget to change the image !
 
-```
+```html
 // Add these lines :
     <link href="loader/styles.css" rel="stylesheet" />
     <script src="loader/scripts.js"></script>

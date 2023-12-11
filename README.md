@@ -1,6 +1,13 @@
 <h1 align="center">Script for a web loader !</h1>
 <em><h5 align="center">(Programming Language - Html | Css | JavaScript)</h5></em>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Kurama250/Web_loader">
+  <img src="https://img.shields.io/github/license/Kurama250/Web_loader">
+  <img src="https://img.shields.io/github/repo-size/Kurama250/Web_loader">
+  <img src="https://img.shields.io/badge/stability-stable-green">
+</p>
+
 # Tutorial to know where and what to modify !
 
 ## 1 - Tranfers the files and modify the files below !

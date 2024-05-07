@@ -36,6 +36,7 @@
 
 ![alt text](https://github.com/Kurama250/Web_loader/blob/main/loading.png?raw=true)
 
+<h3 align="center">If you like this repository don't hesitate to give it a star ⭐ !</h3>
 <h1 align="center">There you go and be happy !</h1>
 
 Licence : [Creative commons](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) - CC BY-NC-ND 4.0 by [Kurama250](https://github.com/Kurama250) 
